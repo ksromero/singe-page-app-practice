@@ -1,2 +1,2 @@
-*single-page-app-practice
--laravel and vue
+- single-page-app-practice
+- made with laravel and vue
